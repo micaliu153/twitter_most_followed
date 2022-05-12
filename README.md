@@ -1,6 +1,12 @@
-# Twitter Most Followed (by [TrendMemo.com] (https://trendmemo.com/))
+# Twitter Most Followed and Most Popular Users and Profiles 
 
+[TrendMemo.com] (https://trendmemo.com/)
 
+## Twitter Top 200 Users 
+Twitter Top 100 Soccer players 
+Twitter Top 200 Actors
+Twitter Top 200 Musicians
+Twitter Top 100 most followed / most pupular users
 
 ## Description
 
